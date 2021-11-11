@@ -7,5 +7,7 @@
 			"path": "css"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tag"
+	}
 }
